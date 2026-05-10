@@ -1,6 +1,3 @@
-# MapDayz3DUnity
-Map of Dayz done in Unity
-
 # Projeto Unity - Mapa DayZ em 3D
 
 Este projeto traz uma recriação do mapa de DayZ em Unity, com foco em melhorias gráficas, otimização de FPS e experiência imersiva em 3D.
