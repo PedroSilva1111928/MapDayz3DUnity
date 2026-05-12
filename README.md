@@ -4,7 +4,7 @@ Este projeto traz uma recriação do mapa de DayZ em Unity, com foco em melhoria
 
 ## Ilustração
 
-![Mapa DayZ em 3D](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/DayZ_Standalone_Screenshot.jpg/640px-DayZ_Standalone_Screenshot.jpg)
+<img src="https://tse2.mm.bing.net/th/id/OIP.1VzY5ubPJ7A80IpM-8FtnQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Imagem clássica 2" width="800"/>
 
 ## Funcionalidades
 - Recriação fiel do mapa original de DayZ
